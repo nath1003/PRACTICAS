@@ -1,0 +1,32 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: pink;
+}
+
+
+h1 {
+    color: gray;
+}
+
+.miParrafo {
+    color: azure;
+    font-size: 18px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: blueviolet;
+    color: aliceblue;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin: 20px;
+}
+
+button:hover {
+    background-color: black;
+}
+
+.body {
+    color: pink;
+}
